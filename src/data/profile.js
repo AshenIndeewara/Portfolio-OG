@@ -1,0 +1,21 @@
+export const profile = {
+    name: "Ashen Indeewara",
+    role: "Full-Stack Developer",
+    taglines: [
+        "Building scalable web applications",
+        "Crafting elegant TypeScript solutions",
+        "Java Spring Boot & Python enthusiast",
+        "Open-source contributor",
+    ],
+    location: "Galle, Sri Lanka",
+    company: "Rezoth",
+    github: "https://github.com/AshenIndeewara",
+    avatar: "https://avatars.githubusercontent.com/u/147372295?v=4",
+    email: "a.indeewara911@gmail.com",
+    memberSince: "October 2023",
+    followers: 20,
+    following: 23,
+    totalRepos: 46,
+    publicRepos: 29,
+    bio: "Passionate full-stack developer from Sri Lanka, building modern web applications and automation tools. I love working with TypeScript, Java, and Python to create impactful software.",
+};
