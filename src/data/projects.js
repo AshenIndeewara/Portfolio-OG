@@ -2,7 +2,7 @@ export const projects = [
     {
         name: "AI Shield",
         repo: "AI-Bot-Protection",
-        description: "AI Bot Protection is a comprehensive, AI-driven traffic analysis and bot mitigation system. It leverages large language models and heuristics to classify and manage incoming HTTP traffic, ensuring your application is safe from scrapers, crawlers, and DDoS attacks while allowing legitimate human users.",
+        description: "AI Bot Protection is an AI-powered system that analyzes HTTP traffic to detect and block bots, scrapers, crawlers, and DDoS attacks while allowing legitimate users to access the application. 🤖🛡️",
         tech: ["JavaScript", "Python", "HTML", "tailwindcss"],
         primaryLang: "JavaScript",
         visibility: "PUBLIC",
