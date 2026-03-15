@@ -13,7 +13,7 @@ export const profile = {
     avatar: "https://avatars.githubusercontent.com/u/147372295?v=4",
     email: "a.indeewara911@gmail.com",
     memberSince: "October 2023",
-    followers: 20,
+    followers: 22,
     following: 23,
     totalRepos: 46,
     publicRepos: 29,
