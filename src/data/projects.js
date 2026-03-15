@@ -1,5 +1,17 @@
 export const projects = [
     {
+        name: "AI Shield",
+        repo: "AI-Bot-Protection",
+        description: "AI Bot Protection is a comprehensive, AI-driven traffic analysis and bot mitigation system. It leverages large language models and heuristics to classify and manage incoming HTTP traffic, ensuring your application is safe from scrapers, crawlers, and DDoS attacks while allowing legitimate human users.",
+        tech: ["JavaScript", "Python", "HTML", "tailwindcss"],
+        primaryLang: "JavaScript",
+        visibility: "PUBLIC",
+        url: "https://github.com/AshenIndeewara/AI-Bot-Protection",
+        featured: true,
+        category: "JavaScript",
+        icon: "💬",
+    },
+    {
         name: "WP_JS (WhatsApp API)",
         repo: "WP_JS",
         description: "WhatsApp automation bot built in JavaScript for automated messaging and QR code generation.",
