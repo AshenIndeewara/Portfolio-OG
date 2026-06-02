@@ -1,5 +1,17 @@
 export const projects = [
     {
+        name: "SubSL",
+        repo: "https://subsl.top/",
+        description: "SubSL is a Movie and tV show streaming website built with python and flask framework. It provides a data free streaming experience fro facebook package users in Sri Lanka.",
+        tech: ["Python", "Flask", "React", "TailwindCSS"],
+        primaryLang: "Python",
+        visibility: "PUBLIC",
+        url: "https://subsl.top/",
+        featured: true,
+        category: "Full-Stack",
+        icon: "🎬",
+    },
+    {
         name: "AI Shield",
         repo: "AI-Bot-Protection",
         description: "AI Bot Protection is an AI-powered system that analyzes HTTP traffic to detect and block bots, scrapers, crawlers, and DDoS attacks while allowing legitimate users to access the application. 🤖🛡️",
