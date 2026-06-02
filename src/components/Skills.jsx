@@ -21,6 +21,7 @@ const techStack = [
     { name: "Docker", Icon: SiDocker, color: "#2496ed", bg: "rgba(36,150,237,0.12)" },
     { name: "Telegram", Icon: SiTelegram, color: "#26a5e4", bg: "rgba(38,165,228,0.12)" },
     { name: "REST APIs", Icon: TbApi, color: "#a855f7", bg: "rgba(168,85,247,0.12)" },
+    { name: "Flask", Icon: SiPython, color: "#ff0000", bg: "rgba(0,0,0,0.12)" },
 ];
 
 export default function Skills() {

@@ -3,7 +3,7 @@ export const projects = [
         name: "SubSL",
         repo: "https://subsl.top/",
         description: "SubSL is a Movie and tV show streaming website built with python and flask framework. It provides a data free streaming experience fro facebook package users in Sri Lanka.",
-        tech: ["Python", "Flask", "React", "TailwindCSS"],
+        tech: ["Python", "Flask", "REST APIs", "React", "tailwindCSS"],
         primaryLang: "Python",
         visibility: "PUBLIC",
         url: "https://subsl.top/",
